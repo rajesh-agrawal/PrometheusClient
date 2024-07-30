@@ -55,6 +55,6 @@ PROMETHEUS SCRAPES metrics from application by polling
 
 1.  Run The spring Boot app
 
-![JVM Dashboard - Grafana](C:\work\springBootPrometheus\prometheus-client\Grafana_dashboard.png)
+![JVM Dashboard - Grafana](Grafana_dashboard.png)
 
-![Visitor Count](C:\work\springBootPrometheus\prometheus-client\VisitorCount.png)
+![Visitor Count](VisitorCount.png)
