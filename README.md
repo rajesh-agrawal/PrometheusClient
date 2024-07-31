@@ -1,4 +1,4 @@
-# 👋 Getting Started with <img height="50" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" width="50"/> Prometheus,Grafana
+# 👋 Getting Started with <img height="30" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" width="30"/> Prometheus,Grafana <img height="30" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" width="30"/>
 
 ### How to Run?
 
