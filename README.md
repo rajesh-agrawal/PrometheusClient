@@ -1,4 +1,4 @@
-# Getting Started Prometheus,Grafana
+# 👋 Getting Started with <img height="50" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" width="50"/> Prometheus,Grafana
 
 ### How to Run?
 
@@ -30,7 +30,7 @@ docker run --rm --name grafana2 --network grafana-prometheus --network-alias gra
 
 1.  Run The spring Boot app
 
-1. Grafana Screenshots for built in JVM metrics 
+1. Grafana Screenshots for built in ☕ JVM metrics 
 ![JVM Dashboard - Grafana](Grafana_dashboard.png)
 1. Grafana Screenshots for custom visitor count
 ![Visitor Count](VisitorCount.png)
